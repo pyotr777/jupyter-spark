@@ -3,4 +3,4 @@
 /*
 !Dockerfile
 !.gitignore
-
+!Spark tests.ipynb
